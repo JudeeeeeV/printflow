@@ -158,7 +158,7 @@ npm run dev
 ```bash
 cd printflow-admin
 npm run dev
-# Admin will run on http://localhost:5174
+# Admin will run on http://localhost:3001
 ```
 
 > [!TIP]
