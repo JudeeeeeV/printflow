@@ -1,4 +1,23 @@
+<div align="center">
+
 # PrintFlow
+
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=The+Future+of+Campus+Printing;Automated.+Efficient.+Seamless.;Built+for+Students,+Shops,+and+Admins&font=Inter&center=true&width=550&height=50&color=3B82F6&vCenter=true&size=22" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://github.com/JudeeeeeV/printflow-frontend"><img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend" /></a>
+  <a href="https://github.com/JudeeeeeV/printflow-backend"><img src="https://img.shields.io/badge/Backend-NestJS%20%7C%20Node.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Backend" /></a>
+  <a href="https://github.com/JudeeeeeV/printflow-admin"><img src="https://img.shields.io/badge/Admin-React%20%7C%20Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Admin" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
+</p>
+
+</div>
 
 **Campus document printing, from submission to collection.**
 
@@ -71,6 +90,10 @@ flowchart LR
 The backend enforces business rules, roles, and ownership. It accesses PostgreSQL through Supabase JS/PostgREST and restricted database functions. Private file access and device authentication are managed by the backend. Production browser/API connections use HTTPS, and agent connections use secure WebSockets.
 
 ## 3. Technology Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,nodejs,nestjs,postgres,supabase,github&theme=dark" alt="Tech Stack" />
+</div>
 
 | Layer                             | Main technologies                                                                                           |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------- |
